@@ -4,42 +4,42 @@
 This is notebook for ISAQB Certified Professional for Software Architecture - Foundation Level (CPSA-FL).
 Please refresh your knowledge in the following areas in advance: 
  
-•	The most important design pattern of  GoF (Adapter, Facade, Broker, Mediator, …)
-•	Templates for Architecture description (e.g..: ARC 42 Template)
-•	The understanding of the SOLID Principals (Robert C. Martin) and you need
-•	Basic understanding of UML, especially  the notation of diagrams (activity, sequence, components and class diagrams)     
+- The most important design pattern of  GoF (Adapter, Facade, Broker, Mediator, …)
+- Templates for Architecture description (e.g..: ARC 42 Template)
+- The understanding of the SOLID Principals (Robert C. Martin) and you need
+- Basic understanding of UML, especially  the notation of diagrams (activity, sequence, components and class diagrams)     
  
 **What can you expect within this training?**
 *Basics*
-•	Software architect: Role and Tasks 
-•	Software architecture in the software life cycle
-•	Relation between architecture and organization (Conway's Law)	Quality
-•	Metrics for architects  
-•	Review with  ATAM  
+- Software architect: Role and Tasks 
+- Software architecture in the software life cycle
+- Relation between architecture and organization (Conway's Law)	Quality
+- Metrics for architects  
+- Review with  ATAM  
 
 *Design*
-•	Building blocks and interfaces  
-•	Principles and heuristics
-•	Architectural patterns (Layer, SOA, Microservices)	Tools
-•	Requirementsmanagement 
-•	Modelling
-•	Static and dynamic architecture analysis
+- Building blocks and interfaces  
+- Principles and heuristics
+- Architectural patterns (Layer, SOA, Microservices)	Tools
+- Requirementsmanagement 
+- Modelling
+- Static and dynamic architecture analysis
 
 *Description and communication*
-•	View on modules, runtime, distribution 
-•	Description via UML 
-•	Templates	 
+- View on modules, runtime, distribution 
+- Description via UML 
+- Templates	 
  
 ## Onlne certificate examination
 *EMAX-IT Informationstechnologie GmbH (Mayrwiesstrasse 15, 5300 Hallwang, Österreich)* will do the training and 
 the certification examination will be conducted by a subcontractor of EMAX IT (Certible OG, Löwelstraße 20/2-3, 1010 Wien, Österreich).
  
 Registration for the exam:
-•	Will be done by EMAX IT. 
-•	The participants will get a mail from the exam provider (Certible OG) and has than arrange the exam date and time directly with the provider.
+- Will be done by EMAX IT. 
+- The participants will get a mail from the exam provider (Certible OG) and has than arrange the exam date and time directly with the provider.
  
 During the certification exam:
-•	Camera and microphone: The examination board stipulates that the camera and microphone must be switched on 
+- Camera and microphone: The examination board stipulates that the camera and microphone must be switched on 
 during the whole examination time because the examiner must be able to see and hear the examinee 
 during the whole exam (see attached  documents: “fact sheet remote exam en.pdf” and “ISAQB_CPSA_F_Certification.pdf”).
 
