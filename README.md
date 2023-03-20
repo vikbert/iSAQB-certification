@@ -29,10 +29,11 @@ Please refresh your knowledge in the following areas in advance:
 - Description via UML 
 - Templates	 
  
-## Online certificate examination
-more defailed information can be found in <https://academy.software-quality-lab.com/academy/online-pruefungen/exam-isaqb-cpsa-f-engl/> 
+## Certification Exam
+more detailed information can be found in <https://academy.software-quality-lab.
+com/academy/online-pruefungen/exam-isaqb-cpsa-f-engl/> 
 
-## How to prepare
+## Certification Preparation
 **Review the iSAQB syllabus**: The iSAQB provides a detailed syllabus for the CPSA certification program, 
 which outlines the topics and concepts that will be covered on the exam. Reviewing the syllabus can help 
 you identify areas where you may need to focus your study.
@@ -56,7 +57,7 @@ Felix Bachmann, Len Bass, David Garlan, James Ivers, Reed Little, Robert Nord, a
 and guidance as you prepare for the CPSA certification exam. You can share your experiences 
 and learn from others who are also preparing for the exam.
 
-## Resources
+## Certification Resources
 - <https://github.com/janmaterne/isaqb-mock-exam-ui>
 - <https://github.com/isaqb-org/curriculum-improve>
 - <https://github.com/isaqb-org/glossary>
